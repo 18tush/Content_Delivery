@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\91973\\Downloads\\javax.mail (1).jar",
+        "c:\\Users\\91973\\Downloads\\javax.mail.jar",
+        "c:\\Users\\91973\\Downloads\\activation.jar\\activation.jar",
+        "c:\\Users\\91973\\Downloads\\mongo-java-driver-3.12.11.jar",
+        "c:\\Users\\91973\\Downloads\\json-20220320.jar",
+        "/home/vaibhav/Downloads/javax.activation-1.2.0.jar",
+        "/home/vaibhav/Downloads/javax.mail-1.6.2.jar",
+        "/home/vaibhav/Downloads/json-20220320.jar",
+        "/home/vaibhav/Downloads/mongo-java-driver-3.12.10.jar"
+    ]
+}
